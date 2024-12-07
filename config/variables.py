@@ -1,0 +1,5 @@
+PROJECT_NAME = "pulumi"
+REGION = "US"
+BUCKET_NAME = "juyel-bucket-test"
+STORAGE_CLASS = "STANDARD"
+FORCE_DESTROY = True
