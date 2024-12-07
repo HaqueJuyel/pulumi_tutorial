@@ -1,0 +1,5 @@
+PROJECT_NAME="pulumi"
+REGION="us-central1"
+ZONE="us-central1-a"
+INSTANCE_NAME="pulumi-instance"
+MACHINE_TYPE="e2-medium"
